@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1581763078 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\klondike.cpp
+	"Klondike.h"
+
+1581825518 d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\include\klondike.h
+	<iostream>
+	<vector>
+	"StackDeckCards.h"
+	"PlayerCard.h"
+	"TableauPlayerCard.h"
+
+1581776887 d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\include\stackdeckcards.h
+	"PlayerCard.h"
+	"TableauPlayerCard.h"
+	<ctime>
+	<iostream>
+
+1581790971 d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\include\playercard.h
+	<iostream>
+	<windows.h>
+	"stdlib.h"
+
+1581785596 d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\include\tableauplayercard.h
+	"PlayerCard.h"
+	<vector>
+
+1581825674 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\main.cpp
+	<iostream>
+	"Klondike.h"
+
+1581762956 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\playercard.cpp
+	"PlayerCard.h"
+
+1581999363 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\src\klondike.cpp
+	"Klondike.h"
+
+1581825695 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\src\playercard.cpp
+	"PlayerCard.h"
+
+1581825687 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\src\stackdeckcards.cpp
+	"StackDeckCards.h"
+
+1581825681 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\src\tableauplayercard.cpp
+	"TableauPlayerCard.h"
+
+1581763048 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\stackdeckcards.cpp
+	"StackDeckCards.h"
+
+1581763000 source:d:\onedrive - e-uvt.ro\informatica anul ii\individual project\myprojects\klondike\tableauplayercard.cpp
+	"TableauPlayerCard.h"
+
